@@ -34,7 +34,7 @@ Libzip is used in a lot of things like Apache, MariaDB, and PHP, and probably so
 Previously, I was just keeping the latest version of a working configuration file, but it seems to me that other people 
 may just want to use the ones that I save, so they don't have to take the time to find out all the ways to make things work.
 So I will tag the files with version numbers starting with 0001.
-You would be surprised at how fast some of these teams are pumping out updates to thier
+You would be surprised at how fast some of these teams are pumping out updates to their
 code bases.
 
 Notes:  For j5c_install_from_source_001 to work,
